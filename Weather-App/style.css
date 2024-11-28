@@ -7,14 +7,14 @@
 
 body{
     background-color: #222;
-    background-image: url(/Weather-App/images/honor-magic-v3-2376x2376-25488.jpg);
+    background-image: url(images/honor-magic-v3-2376x2376-25488.jpg);
 
 }
 .card{
     width: 90%;
     max-width: 470px;
     /* background: linear-gradient(135deg, #00feba, #5b548a);  */
-    background-image: url(/Weather-App/images/honor-magic-v3-2376x2376-25488.jpg);
+    background-image: url(images/honor-magic-v3-2376x2376-25488.jpg);
     background-position: bottom ;
 
     color: #fff;
